@@ -33,6 +33,6 @@ Agora você também pode usar a Nexus AI diretamente no seu celular Android! Bai
 - **Fácil de instalar:** apenas baixe o APK e abra no seu dispositivo Android.  
 - **Todas as funcionalidades do site:** histórico de chat e troca de modelos durante a conversa.  
 
-📥 [Baixar Nexus AI APK](https://github.com/Ferreira16of/NexusAI/raw/main/nexus%20ia.apk)
+📥 [Baixar Nexus AI APK]([https://github.com/Ferreira16of/NexusAI/raw/main/nexus%20ia.apk](https://github.com/Ferreira16of/NexusAI/releases/download/apk/NexusIA.apk))
 
 **Link para testar:** [https://nxsia.netlify.app/](https://nxsia.netlify.app/)
