@@ -26,4 +26,13 @@ Nexus AI é uma plataforma online que centraliza múltiplas inteligências artif
 
 ---
 
+## Nexus AI no Android 📱
+
+Agora você também pode usar a Nexus AI diretamente no seu celular Android! Baixe o **APK oficial** e tenha acesso a todas as IAs sem precisar de login.
+
+- **Fácil de instalar:** apenas baixe o APK e abra no seu dispositivo Android.  
+- **Todas as funcionalidades do site:** histórico de chat e troca de modelos durante a conversa.  
+
+📥 [Baixar Nexus AI APK](https://github.com/Ferreira16of/NexusAI/raw/main/nexus%20ia.apk)
+
 **Link para testar:** [https://nxsia.netlify.app/](https://nxsia.netlify.app/)
