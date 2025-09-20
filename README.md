@@ -7,7 +7,7 @@ Nexus AI é uma plataforma online que centraliza múltiplas inteligências artif
 ## Principais recursos:
 
 - **Seleção de IA:** Escolha qual modelo você quer usar e até troque no meio da conversa.
-- **Histórico de chat:** Todas as suas conversas ficam salvas localmente, podendo ser revisadas a qualquer momento (a menos que você apague😅).
+- **Histórico de chat:** Todas as suas conversas ficam salvas localmente, podendo ser revisadas a qualquer momento (a menos que você apague 😅).
 - **Interface intuitiva:** Fácil de usar diretamente no navegador, sem complicações.
 - **Gratuito e sem login:** Acesso instantâneo, sem cadastro.
 - Além disso, apresentamos **duas IAs exclusivas**:  
