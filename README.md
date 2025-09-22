@@ -1,38 +1,34 @@
-# Nexus AI – Hub de Inteligência Artificial
+# Nexus AI
 
-Nexus AI é uma plataforma online que centraliza múltiplas inteligências artificiais em um só lugar. Ela permite que você converse com diferentes modelos de IA, incluindo **GPT, DeepSeek, Llama, Qwen, Gemma e Kimi**, tudo sem precisar criar login.
+Nexus AI é uma hub de IAs onde você pode escolher a IA que deseja conversar e trocar de IA no meio da conversa. Não é necessário login.  
+
+## IAs disponíveis
+
+- **GPT 💬**: Inteligência geral para perguntas e respostas.  
+- **DeepSeek 🐋**: Buscas inteligentes e análise de informações.  
+- **Qwen 💡**: Assistente criativo para ideias e soluções.  
+- **CodeMind 💾**: Especialista em programação. Gera e revisa códigos, escolhe a melhor linguagem para seu projeto.  
+- **Gemma 🔍**: Especialista em futebol, análises de partidas, estatísticas e histórico de times.  
+- **GoalSense ⚽**: Nova IA focada em futebol, fornece análises detalhadas de partidas, elencos e estatísticas recentes.  
+- **Compound 🤖**: IA versátil para múltiplas tarefas.  
+- **Llama 🦙**: Assistente geral, respostas rápidas e precisas.  
+- **PolyglotAI 🌐**: Traduções entre qualquer idioma.  
+- **Kimi 🌕**: Assistente pessoal com instruções diversas.
+
+## App Android
+
+Você também pode usar a Nexus AI diretamente no Android baixando o APK:  
+[Download Nexus AI APK](https://github.com/Ferreira16of/NexusAI/releases/download/apk/NexusIA.apk)  
+
+## Como usar
+
+1. Abra a Nexus AI no navegador ou no app Android.  
+2. Escolha a IA desejada no menu.  
+3. Digite sua pergunta no input.  
+4. Receba respostas instantâneas da IA selecionada.  
+5. Troque de IA a qualquer momento sem perder o histórico.  
 
 ---
 
-## Principais recursos:
+Nexus AI — Todas as suas IAs favoritas em um só lugar!
 
-- **Seleção de IA:** Escolha qual modelo você quer usar e até troque no meio da conversa.
-- **Histórico de chat:** Todas as suas conversas ficam salvas localmente, podendo ser revisadas a qualquer momento (a menos que você apague 😅).
-- **Interface intuitiva:** Fácil de usar diretamente no navegador, sem complicações.
-- **Gratuito e sem login:** Acesso instantâneo, sem cadastro.
-- Além disso, apresentamos **duas IAs exclusivas**:  
-  - **PolyGlot AI:** Perfeita para tradução entre qualquer idioma. Basta escrever o texto e indicar para qual língua deseja traduzir.  
-    *Exemplo:* `"a black dog"` para **Português** → `"um cachorro preto"`.  
-  - **CodeMind:** Ideal para quem quer programar mas não sabe qual IA ou linguagem usar. Ela gera o código para você e ainda sugere a melhor linguagem para o projeto desejado.
-
----
-
-## Casos de uso:
-
-- Gerar ideias para projetos, conteúdos e negócios.
-- Tirar dúvidas ou aprender novos conceitos.
-- Criar textos formatados ou blocos de código.
-- Explorar diferentes modelos de IA em um único hub.
-
----
-
-## Nexus AI no Android 📱
-
-Agora você também pode usar a Nexus AI diretamente no seu celular Android! Baixe o **APK oficial** e tenha acesso a todas as IAs sem precisar de login.
-
-- **Fácil de instalar:** apenas baixe o APK e abra no seu dispositivo Android.  
-- **Todas as funcionalidades do site:** histórico de chat e troca de modelos durante a conversa.  
-
-📥 [Baixar Nexus AI APK](https://github.com/Ferreira16of/NexusAI/releases/download/apk/NexusIA.apk)
-
-**Link para testar:** [https://nxsia.netlify.app/](https://nxsia.netlify.app/)
